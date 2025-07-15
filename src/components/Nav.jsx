@@ -12,7 +12,7 @@ const Nav = () => {
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <Link class="nav-link active" aria-current="page" to="#">Add TO DOs</Link>
+              <Link class="nav-link active" aria-current="page" to="/">Add TO DOs</Link>
               <Link class="nav-link" to="/s">Search TO DOs</Link>
               <Link class="nav-link" to="/d">Delete TO DOs</Link>
               <Link class="nav-link" to="/v">View TO DOs</Link>
